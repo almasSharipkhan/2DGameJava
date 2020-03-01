@@ -26,11 +26,11 @@ public abstract class GameObject {
         this.x = x;
     }
 
-    public float getxVel() {
+    public float getXVel() {
         return xVel;
     }
 
-    public void setxVel(float xVel) {
+    public void setXVel(float xVel) {
         this.xVel = xVel;
     }
 
@@ -42,11 +42,11 @@ public abstract class GameObject {
         this.y = y;
     }
 
-    public float getyVel() {
+    public float getYVel() {
         return yVel;
     }
 
-    public void setyVel(float yVel) {
+    public void setYVel(float yVel) {
         this.yVel = yVel;
     }
 
